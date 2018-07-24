@@ -49,7 +49,7 @@ Based on this we can conclude:
 - Listings with negative average sentiment reviews are definitely less likely to be successful
 - Listings with strong average positive sentiment are definitely more likely to be successful
 - What is happening with the (-0.001 0.25] bin ?:
-  -  97% of the listings in this category does not have any reviews
+  -  97% of the listings in this category don't have any reviews
   -  The surprising thing is that based on this data, listings without reviews are more likely to be sucessful than those that has a moderate positive sentiment
   
 **Insight** 
